@@ -1,0 +1,63 @@
+{
+  "contacts": [
+    {
+      "id": "584M",
+      "name": "Deepak",
+      "email": "dee944@gmail.com",
+      "mobile": "9555876986",
+      "company": "AdGlobal",
+      "group": "1",
+      "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-business-male-icon-vector-png-image_4187852.jpg"
+    },
+    {
+      "id": "786L",
+      "name": "Rahul",
+      "email": "ra44@gmail.com",
+      "mobile": "7855876986",
+      "company": "TCS",
+      "group": "1",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png"
+    },
+    {
+      "id": "699L",
+      "name": "Subham",
+      "email": "md44@gmail.com",
+      "mobile": "9155876986",
+      "company": "Amazon",
+      "group": "2",
+      "photo": "https://cdn-icons-png.flaticon.com/512/194/194828.png"
+    },
+    {
+      "id": "127P",
+      "name": "Vipul",
+      "email": "vpp44@gmail.com",
+      "mobile": "665586986",
+      "company": "HCL",
+      "group": "2",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg"
+    },
+    {
+      "name": "manish",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAow4o83Lcyh1oR4Huj3F837w8DKc0s6-wg&usqp=CAU",
+      "mobile": "758056458",
+      "email": "mdmanishurrahman0786@gmail.com",
+      "company": "sas",
+      "group": "3",
+      "id": "R5DFP0H"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Office"
+    }
+  ]
+}
